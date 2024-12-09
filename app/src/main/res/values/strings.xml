@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tooodoolist</string>
+    <string name="enter_your_email">Enter Your Email .....</string>
+    <string name="enter_your_pass">Enter Your Password .....</string>
+    <string name="re_enter_your_pass">Re-enter Your Password .....</string>
+    <string name="your_email">yourname@gmail.com</string>
+    <string name="your_name">drop your name here</string>
+</resources>
